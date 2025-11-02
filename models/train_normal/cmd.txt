@@ -1,0 +1,3 @@
+yolo detect train data=../datasets/positiontest/data.yaml model=yolo11n.pt epochs=100 imgsz=600 device=mps batch=100
+
+

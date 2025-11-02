@@ -1,0 +1,1 @@
+yolo detect train data=../datasets/positiontest/data.yaml model=yolo11n.pt epochs=100 imgsz=600 device=mps batch=100 flipud=0 fliplr=0 degrees=0 translate=0 mosaic=0 erasing=0 auto_augment=none scale=0
